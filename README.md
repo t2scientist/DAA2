@@ -1,5 +1,5 @@
 DAA_assignment_2
-https://daaassignment2-ni4wpbzwpf78bhxappt9qgb.streamlit.app/
+(https://grkkjy6ihf5rwvslddnsqy.streamlit.app/)
 
 docker run -p 8501:8501 btp-mtp-allocation
 
